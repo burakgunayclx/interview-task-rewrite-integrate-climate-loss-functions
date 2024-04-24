@@ -1,0 +1,35 @@
+[
+    {
+        "buildingId": 1,
+        "floor_area": 5000,
+        "construction_cost": 1200,
+        "hazard_probability": 0.2,
+        "inflation_rate": 0.03,
+        "resilience_factor": 0.1,
+        "mitigation_effectiveness": 500,
+        "mitigation_cost": 300,
+        "expected_lifetime": 20
+    },
+    {
+        "buildingId": 2,
+        "floor_area": 3000,
+        "construction_cost": 1500,
+        "hazard_probability": 0.3,
+        "inflation_rate": 0.04,
+        "resilience_factor": 0.15,
+        "mitigation_effectiveness": 600,
+        "mitigation_cost": 350,
+        "expected_lifetime": 25
+    },
+    {
+        "buildingId": 3,
+        "floor_area": 7500,
+        "construction_cost": 1000,
+        "hazard_probability": 0.1,
+        "inflation_rate": 0.02,
+        "resilience_factor": 0.05,
+        "mitigation_effectiveness": 400,
+        "mitigation_cost": 250,
+        "expected_lifetime": 15
+    }
+]
